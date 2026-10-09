@@ -58,6 +58,6 @@
 
 | Language | Runtime | Memory |
 |---|---|---|
-| C++ | 35 ms, beats 5.14% | 19.4 MB, beats 5.31% |
+| C++ | 14 ms, beats 17.64% | 19.3 MB, beats 5.31% |
 
-[View submission on LeetCode](https://leetcode.com/submissions/detail/2167471588/)
+[View submission on LeetCode](https://leetcode.com/submissions/detail/2167481636/)
