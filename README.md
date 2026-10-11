@@ -18,3 +18,4 @@
 - [Search in rotated sorted array-I](takeuforward/search-in-rotated-sorted-array-i/) - TakeUForward
 - [Koko eating bananas](takeuforward/koko-eating-bananas/) - TakeUForward
 - [Aggressive Cows](takeuforward/aggressive-cows/) - TakeUForward
+- [Split array - largest sum](takeuforward/split-array---largest-sum/) - TakeUForward
