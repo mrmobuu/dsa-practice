@@ -23,3 +23,4 @@
 - [Longest Substring With At Most K Distinct Characters](takeuforward/longest-substring-with-at-most-k-distinct-characters/) - TakeUForward
 - [Longest Repeating Character Replacement](takeuforward/longest-repeating-character-replacement/) - TakeUForward
 - [Binary Subarrays With Sum](takeuforward/binary-subarrays-with-sum/) - TakeUForward
+- [Minimum Window Substring ](takeuforward/minimum-window-substring-/) - TakeUForward
