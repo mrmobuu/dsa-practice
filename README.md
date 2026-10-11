@@ -19,3 +19,4 @@
 - [Koko eating bananas](takeuforward/koko-eating-bananas/) - TakeUForward
 - [Aggressive Cows](takeuforward/aggressive-cows/) - TakeUForward
 - [Split array - largest sum](takeuforward/split-array---largest-sum/) - TakeUForward
+- [Median of 2 sorted arrays](takeuforward/median-of-2-sorted-arrays/) - TakeUForward
