@@ -17,3 +17,4 @@
 - [Count subarrays with given xor K](takeuforward/count-subarrays-with-given-xor-k/) - TakeUForward
 - [Search in rotated sorted array-I](takeuforward/search-in-rotated-sorted-array-i/) - TakeUForward
 - [Koko eating bananas](takeuforward/koko-eating-bananas/) - TakeUForward
+- [Aggressive Cows](takeuforward/aggressive-cows/) - TakeUForward
