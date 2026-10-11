@@ -9,3 +9,4 @@
 - [2778. Sum of Squares of Special Elements ](leetcode/2778-sum-of-squares-of-special-elements/) - LeetCode
 - [Next Permutation](takeuforward/next-permutation/) - TakeUForward
 - [Count Inversions](takeuforward/count-inversions/) - TakeUForward
+- [Kadane's Algorithm](takeuforward/kadane's-algorithm/) - TakeUForward
