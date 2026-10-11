@@ -15,3 +15,4 @@
 - [Count subarrays with given sum](takeuforward/count-subarrays-with-given-sum/) - TakeUForward
 - [Maximum Product Subarray in an Array](takeuforward/maximum-product-subarray-in-an-array/) - TakeUForward
 - [Count subarrays with given xor K](takeuforward/count-subarrays-with-given-xor-k/) - TakeUForward
+- [Search in rotated sorted array-I](takeuforward/search-in-rotated-sorted-array-i/) - TakeUForward
