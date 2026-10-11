@@ -10,3 +10,4 @@
 - [Next Permutation](takeuforward/next-permutation/) - TakeUForward
 - [Count Inversions](takeuforward/count-inversions/) - TakeUForward
 - [Kadane's Algorithm](takeuforward/kadane's-algorithm/) - TakeUForward
+- [3 Sum](takeuforward/3-sum/) - TakeUForward
