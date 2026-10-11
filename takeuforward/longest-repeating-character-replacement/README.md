@@ -26,4 +26,5 @@
 | Solution | Language | Runtime | Memory | Tests passed | Saved |
 |---|---|---|---|---|---|
 | [longest-repeating-character-replacement.cpp](longest-repeating-character-replacement.cpp) | C++ | 1.064 | 418.11 KiB | 10005/10005 | 2026-10-11 |
+| [longest-repeating-character-replacement-2.cpp](longest-repeating-character-replacement-2.cpp) | C++ | 0.622 | 417.59 KiB | 10005/10005 | 2026-10-11 |
 <!-- solvelogs:solutions:end -->
