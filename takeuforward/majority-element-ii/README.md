@@ -20,8 +20,11 @@
 
 ---
 
-## My latest accepted submission
+## My solutions
 
-| Language | Time | Memory | Tests passed |
-|---|---|---|---|
-| C++ | 0.028 | 407.77 KiB | 118/118 |
+<!-- solvelogs:solutions:start -->
+| Solution | Language | Runtime | Memory | Tests passed | Saved |
+|---|---|---|---|---|---|
+| [majority-element-ii.cpp](majority-element-ii.cpp) | C++ | 0.028 | 407.77 KiB | 118/118 | - |
+| [majority-element-ii-2.cpp](majority-element-ii-2.cpp) | C++ | 0.046 | 427.21 KiB | 118/118 | 2026-10-11 |
+<!-- solvelogs:solutions:end -->
