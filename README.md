@@ -14,3 +14,4 @@
 - [Longest Consecutive Sequence in an Array](takeuforward/longest-consecutive-sequence-in-an-array/) - TakeUForward
 - [Count subarrays with given sum](takeuforward/count-subarrays-with-given-sum/) - TakeUForward
 - [Maximum Product Subarray in an Array](takeuforward/maximum-product-subarray-in-an-array/) - TakeUForward
+- [Count subarrays with given xor K](takeuforward/count-subarrays-with-given-xor-k/) - TakeUForward
