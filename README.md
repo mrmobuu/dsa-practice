@@ -6,3 +6,4 @@
 - [Maximum Product Pair With Target Sum](leetcode/maximum-product-pair-with-target-sum/) - LeetCode
 - [Longest Resilient Subarray I](leetcode/longest-resilient-subarray-i/) - LeetCode
 - [Longest Substring Without Repeating Characters](takeuforward/longest-substring-without-repeating-characters/) - TakeUForward
+- [2778. Sum of Squares of Special Elements ](leetcode/2778-sum-of-squares-of-special-elements/) - LeetCode
