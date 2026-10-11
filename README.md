@@ -21,3 +21,4 @@
 - [Split array - largest sum](takeuforward/split-array---largest-sum/) - TakeUForward
 - [Median of 2 sorted arrays](takeuforward/median-of-2-sorted-arrays/) - TakeUForward
 - [Longest Substring With At Most K Distinct Characters](takeuforward/longest-substring-with-at-most-k-distinct-characters/) - TakeUForward
+- [Longest Repeating Character Replacement](takeuforward/longest-repeating-character-replacement/) - TakeUForward
