@@ -8,3 +8,4 @@
 - [Longest Substring Without Repeating Characters](takeuforward/longest-substring-without-repeating-characters/) - TakeUForward
 - [2778. Sum of Squares of Special Elements ](leetcode/2778-sum-of-squares-of-special-elements/) - LeetCode
 - [Next Permutation](takeuforward/next-permutation/) - TakeUForward
+- [Count Inversions](takeuforward/count-inversions/) - TakeUForward
