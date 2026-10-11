@@ -11,3 +11,4 @@
 - [Count Inversions](takeuforward/count-inversions/) - TakeUForward
 - [Kadane's Algorithm](takeuforward/kadane's-algorithm/) - TakeUForward
 - [3 Sum](takeuforward/3-sum/) - TakeUForward
+- [Longest Consecutive Sequence in an Array](takeuforward/longest-consecutive-sequence-in-an-array/) - TakeUForward
