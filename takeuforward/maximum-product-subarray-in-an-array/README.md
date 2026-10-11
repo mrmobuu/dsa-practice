@@ -26,4 +26,5 @@
 | Solution | Language | Runtime | Memory | Tests passed | Saved |
 |---|---|---|---|---|---|
 | [maximum-product-subarray-in-an-array.cpp](maximum-product-subarray-in-an-array.cpp) | C++ | 0.011 | 398.17 KiB | 119/119 | 2026-10-11 |
+| [maximum-product-subarray-in-an-array-2.cpp](maximum-product-subarray-in-an-array-2.cpp) | C++ | 0.011 | 397.08 KiB | 119/119 | 2026-10-11 |
 <!-- solvelogs:solutions:end -->
