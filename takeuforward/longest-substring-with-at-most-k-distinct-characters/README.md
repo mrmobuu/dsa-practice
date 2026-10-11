@@ -26,4 +26,5 @@
 | Solution | Language | Runtime | Memory | Tests passed | Saved |
 |---|---|---|---|---|---|
 | [longest-substring-with-at-most-k-distinct-characters.cpp](longest-substring-with-at-most-k-distinct-characters.cpp) | C++ | 0.035 | 417.34 KiB | 114/114 | 2026-10-11 |
+| [longest-substring-with-at-most-k-distinct-characters-2.cpp](longest-substring-with-at-most-k-distinct-characters-2.cpp) | C++ | 0.023 | 412.57 KiB | 114/114 | 2026-10-11 |
 <!-- solvelogs:solutions:end -->
