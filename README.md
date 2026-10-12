@@ -29,3 +29,4 @@
 - [4080. Design Bus Seat Booking System](leetcode/4080-design-bus-seat-booking-system/) - LeetCode
 - [Remove Nth node from the back of the LL](takeuforward/remove-nth-node-from-the-back-of-the-ll/) - TakeUForward
 - [Majority Element-I](takeuforward/majority-element-i/) - TakeUForward
+- [2897. Apply Operations on Array to Maximize Sum of Squares](leetcode/2897-apply-operations-on-array-to-maximize-sum-of-squares/) - LeetCode
