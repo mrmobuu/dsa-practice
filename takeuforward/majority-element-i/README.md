@@ -26,4 +26,5 @@
 | Solution | Language | Runtime | Memory | Tests passed | Saved |
 |---|---|---|---|---|---|
 | [majority-element-i.cpp](majority-element-i.cpp) | C++ | 0.442 | 417.44 KiB | 197/197 | 2026-10-12 |
+| [majority-element-i-2.cpp](majority-element-i-2.cpp) | C++ | 0.441 | 417.19 KiB | 197/197 | 2026-10-12 |
 <!-- solvelogs:solutions:end -->
