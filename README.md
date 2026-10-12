@@ -31,3 +31,4 @@
 - [Majority Element-I](takeuforward/majority-element-i/) - TakeUForward
 - [2897. Apply Operations on Array to Maximize Sum of Squares](leetcode/2897-apply-operations-on-array-to-maximize-sum-of-squares/) - LeetCode
 - [2619. Array Prototype Last](leetcode/2619-array-prototype-last/) - LeetCode
+- [2724. Sort By](leetcode/2724-sort-by/) - LeetCode
