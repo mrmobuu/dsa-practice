@@ -34,3 +34,4 @@
 - [2724. Sort By](leetcode/2724-sort-by/) - LeetCode
 - [2727. Is Object Empty](leetcode/2727-is-object-empty/) - LeetCode
 - [190. Reverse Bits](leetcode/0190-reverse-bits/) - LeetCode
+- [191. Number of 1 Bits](leetcode/0191-number-of-1-bits/) - LeetCode
