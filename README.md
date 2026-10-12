@@ -33,3 +33,4 @@
 - [2619. Array Prototype Last](leetcode/2619-array-prototype-last/) - LeetCode
 - [2724. Sort By](leetcode/2724-sort-by/) - LeetCode
 - [2727. Is Object Empty](leetcode/2727-is-object-empty/) - LeetCode
+- [190. Reverse Bits](leetcode/0190-reverse-bits/) - LeetCode
