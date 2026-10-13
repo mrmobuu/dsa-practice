@@ -40,3 +40,4 @@
 - [Single Number - II](takeuforward/single-number---ii/) - TakeUForward
 - [Minimum Bit Flips to Convert Number](takeuforward/minimum-bit-flips-to-convert-number/) - TakeUForward
 - [Print all primes till N](takeuforward/print-all-primes-till-n/) - TakeUForward
+- [Map Store](takeuforward/stl-data-structure-cpp-2/) - TakeUForward
