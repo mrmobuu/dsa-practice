@@ -35,3 +35,4 @@
 - [2727. Is Object Empty](leetcode/2727-is-object-empty/) - LeetCode
 - [190. Reverse Bits](leetcode/0190-reverse-bits/) - LeetCode
 - [191. Number of 1 Bits](leetcode/0191-number-of-1-bits/) - LeetCode
+- [3727. Maximum Alternating Sum of Squares](leetcode/3727-maximum-alternating-sum-of-squares/) - LeetCode
