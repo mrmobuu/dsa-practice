@@ -37,3 +37,4 @@
 - [191. Number of 1 Bits](leetcode/0191-number-of-1-bits/) - LeetCode
 - [3727. Maximum Alternating Sum of Squares](leetcode/3727-maximum-alternating-sum-of-squares/) - LeetCode
 - [Single Number - I](takeuforward/single-number---i/) - TakeUForward
+- [Single Number - II](takeuforward/single-number---ii/) - TakeUForward
