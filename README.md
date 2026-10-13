@@ -38,3 +38,4 @@
 - [3727. Maximum Alternating Sum of Squares](leetcode/3727-maximum-alternating-sum-of-squares/) - LeetCode
 - [Single Number - I](takeuforward/single-number---i/) - TakeUForward
 - [Single Number - II](takeuforward/single-number---ii/) - TakeUForward
+- [Minimum Bit Flips to Convert Number](takeuforward/minimum-bit-flips-to-convert-number/) - TakeUForward
