@@ -44,3 +44,4 @@
 - [For Loop](takeuforward/for-loop/) - TakeUForward
 - [3723. Maximize Sum of Squares of Digits](leetcode/3723-maximize-sum-of-squares-of-digits/) - LeetCode
 - [Sort an array of 0's 1's and 2's](takeuforward/sort-an-array-of-0's-1's-and-2's/) - TakeUForward
+- [26. Remove Duplicates from Sorted Array](leetcode/0026-remove-duplicates-from-sorted-array/) - LeetCode
