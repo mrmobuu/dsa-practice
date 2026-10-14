@@ -47,3 +47,4 @@
 - [26. Remove Duplicates from Sorted Array](leetcode/0026-remove-duplicates-from-sorted-array/) - LeetCode
 - [121. Best Time to Buy and Sell Stock](leetcode/0121-best-time-to-buy-and-sell-stock/) - LeetCode
 - [3. Longest Substring Without Repeating Characters](leetcode/0003-longest-substring-without-repeating-characters/) - LeetCode
+- [206. Reverse Linked List](leetcode/0206-reverse-linked-list/) - LeetCode
