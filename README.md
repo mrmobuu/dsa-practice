@@ -42,3 +42,4 @@
 - [Print all primes till N](takeuforward/print-all-primes-till-n/) - TakeUForward
 - [Map Store](takeuforward/stl-data-structure-cpp-2/) - TakeUForward
 - [For Loop](takeuforward/for-loop/) - TakeUForward
+- [3723. Maximize Sum of Squares of Digits](leetcode/3723-maximize-sum-of-squares-of-digits/) - LeetCode
