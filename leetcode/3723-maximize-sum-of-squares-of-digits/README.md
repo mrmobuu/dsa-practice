@@ -83,4 +83,5 @@
 | Solution | Language | Runtime | Memory | Tests passed | Saved |
 |---|---|---|---|---|---|
 | [maximize-sum-of-squares-of-digits.cpp](maximize-sum-of-squares-of-digits.cpp) | C++ | 355 ms, beats 10.66% | 63 MB, beats 35.53% | 1000/1000 | [2026-10-14](https://leetcode.com/submissions/detail/2172057033/) |
+| [maximize-sum-of-squares-of-digits-2.cpp](maximize-sum-of-squares-of-digits-2.cpp) | C++ | 334 ms, beats 11.17% | 63.4 MB, beats 33.00% | 1000/1000 | [2026-10-14](https://leetcode.com/submissions/detail/2172057635/) |
 <!-- solvelogs:solutions:end -->
