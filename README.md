@@ -49,3 +49,4 @@
 - [3. Longest Substring Without Repeating Characters](leetcode/0003-longest-substring-without-repeating-characters/) - LeetCode
 - [206. Reverse Linked List](leetcode/0206-reverse-linked-list/) - LeetCode
 - [232. Implement Queue using Stacks](leetcode/0232-implement-queue-using-stacks/) - LeetCode
+- [704. Binary Search](leetcode/0704-binary-search/) - LeetCode
