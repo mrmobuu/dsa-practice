@@ -51,3 +51,4 @@
 - [232. Implement Queue using Stacks](leetcode/0232-implement-queue-using-stacks/) - LeetCode
 - [704. Binary Search](leetcode/0704-binary-search/) - LeetCode
 - [2913. Subarrays Distinct Element Sum of Squares I](leetcode/2913-subarrays-distinct-element-sum-of-squares-i/) - LeetCode
+- [Subsets I](takeuforward/subsets-i/) - TakeUForward
