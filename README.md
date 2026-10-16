@@ -57,3 +57,4 @@
 - [Find missing number](takeuforward/find-missing-number/) - TakeUForward
 - [Palindrome Check](takeuforward/palindrome-check/) - TakeUForward
 - [1929. Concatenation of Array](leetcode/1929-concatenation-of-array/) - LeetCode
+- [167. Two Sum II - Input Array Is Sorted](leetcode/0167-two-sum-ii-input-array-is-sorted/) - LeetCode
