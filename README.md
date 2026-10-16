@@ -56,3 +56,4 @@
 - [Move Zeros to End](takeuforward/move-zeros-to-end/) - TakeUForward
 - [Find missing number](takeuforward/find-missing-number/) - TakeUForward
 - [Palindrome Check](takeuforward/palindrome-check/) - TakeUForward
+- [1929. Concatenation of Array](leetcode/1929-concatenation-of-array/) - LeetCode
