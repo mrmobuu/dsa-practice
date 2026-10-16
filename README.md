@@ -52,3 +52,4 @@
 - [704. Binary Search](leetcode/0704-binary-search/) - LeetCode
 - [2913. Subarrays Distinct Element Sum of Squares I](leetcode/2913-subarrays-distinct-element-sum-of-squares-i/) - LeetCode
 - [Subsets I](takeuforward/subsets-i/) - TakeUForward
+- [2916. Subarrays Distinct Element Sum of Squares II](leetcode/2916-subarrays-distinct-element-sum-of-squares-ii/) - LeetCode
