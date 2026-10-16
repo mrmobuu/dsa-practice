@@ -54,3 +54,4 @@
 - [Subsets I](takeuforward/subsets-i/) - TakeUForward
 - [2916. Subarrays Distinct Element Sum of Squares II](leetcode/2916-subarrays-distinct-element-sum-of-squares-ii/) - LeetCode
 - [Move Zeros to End](takeuforward/move-zeros-to-end/) - TakeUForward
+- [Find missing number](takeuforward/find-missing-number/) - TakeUForward
