@@ -51,4 +51,5 @@ F(n) = F(n - 1) + F(n - 2), for n &gt; 1.
 | Solution | Language | Runtime | Memory | Tests passed | Saved |
 |---|---|---|---|---|---|
 | [fibonacci-number.cpp](fibonacci-number.cpp) | C++ | 13 ms, beats 30.95% | 7.6 MB, beats 98.74% | 31/31 | [2026-10-16](https://leetcode.com/submissions/detail/2173926877/) |
+| [fibonacci-number-2.cpp](fibonacci-number-2.cpp) | C++ | 0 ms, beats 100.00% | 7.8 MB, beats 37.20% | 31/31 | [2026-10-16](https://leetcode.com/submissions/detail/2173929518/) |
 <!-- solvelogs:solutions:end -->
