@@ -55,3 +55,4 @@
 - [2916. Subarrays Distinct Element Sum of Squares II](leetcode/2916-subarrays-distinct-element-sum-of-squares-ii/) - LeetCode
 - [Move Zeros to End](takeuforward/move-zeros-to-end/) - TakeUForward
 - [Find missing number](takeuforward/find-missing-number/) - TakeUForward
+- [Palindrome Check](takeuforward/palindrome-check/) - TakeUForward
