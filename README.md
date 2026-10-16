@@ -60,3 +60,4 @@
 - [167. Two Sum II - Input Array Is Sorted](leetcode/0167-two-sum-ii-input-array-is-sorted/) - LeetCode
 - [509. Fibonacci Number](leetcode/0509-fibonacci-number/) - LeetCode
 - [389. Find the Difference](leetcode/0389-find-the-difference/) - LeetCode
+- [225. Implement Stack using Queues](leetcode/0225-implement-stack-using-queues/) - LeetCode
