@@ -62,3 +62,4 @@
 - [389. Find the Difference](leetcode/0389-find-the-difference/) - LeetCode
 - [225. Implement Stack using Queues](leetcode/0225-implement-stack-using-queues/) - LeetCode
 - [3583. Count Special Triplets](leetcode/3583-count-special-triplets/) - LeetCode
+- [3551. Minimum Swaps to Sort by Digit Sum](leetcode/3551-minimum-swaps-to-sort-by-digit-sum/) - LeetCode
