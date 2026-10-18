@@ -65,3 +65,4 @@
 - [3551. Minimum Swaps to Sort by Digit Sum](leetcode/3551-minimum-swaps-to-sort-by-digit-sum/) - LeetCode
 - [Count Nodes in Linked List](takeuforward/count-nodes-in-linked-list/) - TakeUForward
 - [Sort Characters by Frequency](takeuforward/sort-characters-by-frequency/) - TakeUForward
+- [4083. Minimum Deletions to Make Array Sharp](leetcode/4083-minimum-deletions-to-make-array-sharp/) - LeetCode
