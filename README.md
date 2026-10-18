@@ -71,3 +71,4 @@
 - [4086. Minimum Interval Selection to Cover Target Intervals](leetcode/4086-minimum-interval-selection-to-cover-target-intervals/) - LeetCode
 - [152. Maximum Product Subarray](leetcode/0152-maximum-product-subarray/) - LeetCode
 - [209. Minimum Size Subarray Sum](leetcode/0209-minimum-size-subarray-sum/) - LeetCode
+- [1569. Number of Ways to Reorder Array to Get Same BST](leetcode/1569-number-of-ways-to-reorder-array-to-get-same-bst/) - LeetCode
