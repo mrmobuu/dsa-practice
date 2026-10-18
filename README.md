@@ -66,3 +66,4 @@
 - [Count Nodes in Linked List](takeuforward/count-nodes-in-linked-list/) - TakeUForward
 - [Sort Characters by Frequency](takeuforward/sort-characters-by-frequency/) - TakeUForward
 - [4083. Minimum Deletions to Make Array Sharp](leetcode/4083-minimum-deletions-to-make-array-sharp/) - LeetCode
+- [4084. Last Visited Cell in a Directional Grid](leetcode/4084-last-visited-cell-in-a-directional-grid/) - LeetCode
