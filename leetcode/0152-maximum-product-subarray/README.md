@@ -42,4 +42,5 @@
 | Solution | Language | Runtime | Memory | Tests passed | Saved |
 |---|---|---|---|---|---|
 | [maximum-product-subarray.cpp](maximum-product-subarray.cpp) | C++ | 0 ms, beats 100.00% | 18.3 MB, beats 6.33% | 192/192 | [2026-10-18](https://leetcode.com/submissions/detail/2175293131/) |
+| [maximum-product-subarray-2.cpp](maximum-product-subarray-2.cpp) | C++ | 0 ms, beats 100.00% | 17.9 MB, beats 6.33% | 192/192 | [2026-10-18](https://leetcode.com/submissions/detail/2175296449/) |
 <!-- solvelogs:solutions:end -->
