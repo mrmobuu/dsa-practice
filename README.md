@@ -79,3 +79,4 @@
 - [Merge Intervals](takeuforward/merge-intervals/) - TakeUForward
 - [Valid Anagram](takeuforward/valid-anagram/) - TakeUForward
 - [ Group Words by Anagrams](takeuforward/group-words-by-anagrams/) - TakeUForward
+- [Balanced Paranthesis](takeuforward/balanced-paranthesis/) - TakeUForward
