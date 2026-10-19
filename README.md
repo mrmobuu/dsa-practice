@@ -75,3 +75,4 @@
 - [2089. Find Target Indices After Sorting Array](leetcode/2089-find-target-indices-after-sorting-array/) - LeetCode
 - [Divide two numbers without multiplication and division](takeuforward/divide-two-numbers-without-multiplication-and-division/) - TakeUForward
 - [Top K Frequent Elements](takeuforward/top-k-frequent-elements/) - TakeUForward
+- [Rotate matrix by 90 degrees](takeuforward/rotate-matrix-by-90-degrees/) - TakeUForward
