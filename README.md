@@ -76,3 +76,4 @@
 - [Divide two numbers without multiplication and division](takeuforward/divide-two-numbers-without-multiplication-and-division/) - TakeUForward
 - [Top K Frequent Elements](takeuforward/top-k-frequent-elements/) - TakeUForward
 - [Rotate matrix by 90 degrees](takeuforward/rotate-matrix-by-90-degrees/) - TakeUForward
+- [Merge Intervals](takeuforward/merge-intervals/) - TakeUForward
