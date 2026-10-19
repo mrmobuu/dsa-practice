@@ -77,3 +77,4 @@
 - [Top K Frequent Elements](takeuforward/top-k-frequent-elements/) - TakeUForward
 - [Rotate matrix by 90 degrees](takeuforward/rotate-matrix-by-90-degrees/) - TakeUForward
 - [Merge Intervals](takeuforward/merge-intervals/) - TakeUForward
+- [Valid Anagram](takeuforward/valid-anagram/) - TakeUForward
