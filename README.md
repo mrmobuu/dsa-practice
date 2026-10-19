@@ -78,3 +78,4 @@
 - [Rotate matrix by 90 degrees](takeuforward/rotate-matrix-by-90-degrees/) - TakeUForward
 - [Merge Intervals](takeuforward/merge-intervals/) - TakeUForward
 - [Valid Anagram](takeuforward/valid-anagram/) - TakeUForward
+- [ Group Words by Anagrams](takeuforward/group-words-by-anagrams/) - TakeUForward
