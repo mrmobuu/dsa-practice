@@ -1,0 +1,29 @@
+# [Divide two numbers without multiplication and division](https://takeuforward.org/practice/dsa/divide-two-numbers-without-multiplication-and-division)
+
+<p>Given the two integers,<strong> dividend</strong> and<strong> divisor</strong>. Divide without using the mod, division, or multiplication operators and return the <strong>quotient</strong>.</p><p><br></p><p>The fractional portion of the integer division should be lost as it truncates toward zero.</p><p>As an illustration, 8.345 and -2.7335 would be reduced to 8 and -2 respectively.</p><p><br></p><p><strong>Note</strong>: Assume we are dealing with an environment that could only store integers within the 32-bit signed integer range: [−2<sup>31</sup>, 2<sup>31</sup> − 1]. For this problem, if the quotient is strictly greater than 2<sup>31</sup> - 1, then return 2<sup>31</sup> - 1, and if the quotient is strictly less than -2<sup>31</sup>, then return -2<sup>31</sup>.</p>
+
+**Example 1**
+
+<p><strong>Input :</strong> Dividend = 10 , Divisor = 3</p><p><strong>Output :</strong> 3</p><p><strong>Explanation :</strong> 10/3 = 3.33 , truncated to 3.</p>
+
+**Example 2**
+
+<p><strong>Input :</strong> Dividend = 7 , Divisor = -3</p><p><strong>Output :</strong> -2</p><p><strong>Explanation :</strong> 7/-3 = -2.33 , truncated to -2.</p>
+
+**Example 3**
+
+<p><strong>Input :</strong> Dividend = 7 , Divisor = 2</p>
+
+**Constraints**
+
+<ul><li>-2<sup>31</sup> &lt;= dividend , divisor &lt;= 2<sup>31</sup> - 1</li><li>divisor != 0</li></ul>
+
+---
+
+## My solutions
+
+<!-- solvelogs:solutions:start -->
+| Solution | Language | Runtime | Memory | Tests passed | Saved |
+|---|---|---|---|---|---|
+| [divide-two-numbers-without-multiplication-and-division.cpp](divide-two-numbers-without-multiplication-and-division.cpp) | C++ | 0.009 | 392.41 KiB | 408/408 | 2026-10-19 |
+<!-- solvelogs:solutions:end -->
