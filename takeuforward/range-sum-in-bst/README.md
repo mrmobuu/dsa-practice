@@ -22,4 +22,5 @@
 | Solution | Language | Runtime | Memory | Tests passed | Saved |
 |---|---|---|---|---|---|
 | [range-sum-in-bst.cpp](range-sum-in-bst.cpp) | C++ | 0.022 | 421.41 KiB | 110/110 | 2026-10-21 |
+| [range-sum-in-bst-2.cpp](range-sum-in-bst-2.cpp) | C++ | 0.020 | 421.61 KiB | 110/110 | 2026-10-21 |
 <!-- solvelogs:solutions:end -->
