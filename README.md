@@ -86,3 +86,4 @@
 - [Combination Sum](takeuforward/combination-sum/) - TakeUForward
 - [Range Sum in BST](takeuforward/range-sum-in-bst/) - TakeUForward
 - [Set the Rightmost Unset Bit](takeuforward/set-the-rightmost-unset-bit/) - TakeUForward
+- [Count the Number of Set Bits](takeuforward/count-the-number-of-set-bits/) - TakeUForward
