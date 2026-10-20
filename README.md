@@ -85,3 +85,4 @@
 - [Maximum Depth in BT](takeuforward/maximum-depth-in-bt/) - TakeUForward
 - [Combination Sum](takeuforward/combination-sum/) - TakeUForward
 - [Range Sum in BST](takeuforward/range-sum-in-bst/) - TakeUForward
+- [Set the Rightmost Unset Bit](takeuforward/set-the-rightmost-unset-bit/) - TakeUForward
