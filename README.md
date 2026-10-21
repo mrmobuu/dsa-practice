@@ -87,3 +87,4 @@
 - [Range Sum in BST](takeuforward/range-sum-in-bst/) - TakeUForward
 - [Set the Rightmost Unset Bit](takeuforward/set-the-rightmost-unset-bit/) - TakeUForward
 - [Count the Number of Set Bits](takeuforward/count-the-number-of-set-bits/) - TakeUForward
+- [3863. Minimum Operations to Sort a String](leetcode/3863-minimum-operations-to-sort-a-string/) - LeetCode
