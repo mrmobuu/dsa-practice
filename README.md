@@ -89,3 +89,4 @@
 - [Count the Number of Set Bits](takeuforward/count-the-number-of-set-bits/) - TakeUForward
 - [3863. Minimum Operations to Sort a String](leetcode/3863-minimum-operations-to-sort-a-string/) - LeetCode
 - [Clone a LL with random and next pointer](takeuforward/clone-a-ll-with-random-and-next-pointer/) - TakeUForward
+- [1752. Check if Array Is Sorted and Rotated](leetcode/1752-check-if-array-is-sorted-and-rotated/) - LeetCode
