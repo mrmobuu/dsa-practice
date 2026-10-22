@@ -20,8 +20,11 @@
 
 ---
 
-## My latest accepted submission
+## My solutions
 
-| Language | Time | Memory | Tests passed |
-|---|---|---|---|
-| C++ | 0.029 | 397.14 KiB | 121/121 |
+<!-- solvelogs:solutions:start -->
+| Solution | Language | Runtime | Memory | Tests passed | Saved |
+|---|---|---|---|---|---|
+| [kadane's-algorithm.cpp](kadane's-algorithm.cpp) | C++ | 0.029 | 397.14 KiB | 121/121 | - |
+| [kadane's-algorithm-2.cpp](kadane's-algorithm-2.cpp) | C++ | 0.029 | 396.99 KiB | 121/121 | 2026-10-22 |
+<!-- solvelogs:solutions:end -->
