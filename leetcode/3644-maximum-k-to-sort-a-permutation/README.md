@@ -62,4 +62,5 @@
 | Solution | Language | Runtime | Memory | Tests passed | Saved |
 |---|---|---|---|---|---|
 | [maximum-k-to-sort-a-permutation.cpp](maximum-k-to-sort-a-permutation.cpp) | C++ | 53 ms, beats 6.67% | 162.7 MB, beats 5.71% | 822/822 | [2026-10-23](https://leetcode.com/submissions/detail/2179343729/) |
+| [maximum-k-to-sort-a-permutation-2.cpp](maximum-k-to-sort-a-permutation-2.cpp) | C++ | 48 ms, beats 6.67% | 159.9 MB, beats 7.62% | 822/822 | [2026-10-23](https://leetcode.com/submissions/detail/2179359916/) |
 <!-- solvelogs:solutions:end -->
