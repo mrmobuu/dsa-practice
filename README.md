@@ -94,3 +94,4 @@
 - [3644. Maximum K to Sort a Permutation](leetcode/3644-maximum-k-to-sort-a-permutation/) - LeetCode
 - [3121. Count the Number of Special Characters II](leetcode/3121-count-the-number-of-special-characters-ii/) - LeetCode
 - [3300. Minimum Element After Replacement With Digit Sum](leetcode/3300-minimum-element-after-replacement-with-digit-sum/) - LeetCode
+- [Count primes in range L to R](takeuforward/count-primes-in-range-l-to-r/) - TakeUForward
