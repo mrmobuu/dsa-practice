@@ -78,4 +78,5 @@
 |---|---|---|---|---|---|
 | [minimum-operations-to-sort-a-permutation.cpp](minimum-operations-to-sort-a-permutation.cpp) | C++ | 5 ms, beats 47.24% | 141.2 MB, beats 99.61% | 999/999 | [2026-10-22](https://leetcode.com/submissions/detail/2179060275/) |
 | [minimum-operations-to-sort-a-permutation-2.cpp](minimum-operations-to-sort-a-permutation-2.cpp) | C++ | 4 ms, beats 63.45% | 141.3 MB, beats 87.55% | 999/999 | [2026-10-23](https://leetcode.com/submissions/detail/2179909777/) |
+| [minimum-operations-to-sort-a-permutation-3.cpp](minimum-operations-to-sort-a-permutation-3.cpp) | C++ | 2 ms, beats 75.90% | 141.5 MB, beats 62.65% | 999/999 | [2026-10-23](https://leetcode.com/submissions/detail/2179911195/) |
 <!-- solvelogs:solutions:end -->
