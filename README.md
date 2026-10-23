@@ -97,3 +97,4 @@
 - [Count primes in range L to R](takeuforward/count-primes-in-range-l-to-r/) - TakeUForward
 - [Asteroid Collision](takeuforward/asteroid-collision/) - TakeUForward
 - [Sum of Subarray Minimums](takeuforward/sum-of-subarray-minimums/) - TakeUForward
+- [Sliding Window Maximum](takeuforward/sliding-window-maximum/) - TakeUForward
