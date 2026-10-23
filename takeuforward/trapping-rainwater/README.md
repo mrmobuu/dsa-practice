@@ -26,4 +26,5 @@
 | Solution | Language | Runtime | Memory | Tests passed | Saved |
 |---|---|---|---|---|---|
 | [trapping-rainwater.cpp](trapping-rainwater.cpp) | C++ | 0.040 | 398.41 KiB | 128/128 | 2026-10-23 |
+| [trapping-rainwater-2.cpp](trapping-rainwater-2.cpp) | C++ | 0.038 | 397.48 KiB | 128/128 | 2026-10-23 |
 <!-- solvelogs:solutions:end -->
