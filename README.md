@@ -92,3 +92,4 @@
 - [1752. Check if Array Is Sorted and Rotated](leetcode/1752-check-if-array-is-sorted-and-rotated/) - LeetCode
 - [3942. Minimum Operations to Sort a Permutation](leetcode/3942-minimum-operations-to-sort-a-permutation/) - LeetCode
 - [3644. Maximum K to Sort a Permutation](leetcode/3644-maximum-k-to-sort-a-permutation/) - LeetCode
+- [3121. Count the Number of Special Characters II](leetcode/3121-count-the-number-of-special-characters-ii/) - LeetCode
