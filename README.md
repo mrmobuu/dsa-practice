@@ -101,3 +101,4 @@
 - [Trapping Rainwater](takeuforward/trapping-rainwater/) - TakeUForward
 - [Largest rectangle in a histogram](takeuforward/largest-rectangle-in-a-histogram/) - TakeUForward
 - [LRU Cache](takeuforward/lru-cache/) - TakeUForward
+- [LFU Cache](takeuforward/lfu-cache/) - TakeUForward
