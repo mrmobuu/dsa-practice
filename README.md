@@ -98,3 +98,4 @@
 - [Asteroid Collision](takeuforward/asteroid-collision/) - TakeUForward
 - [Sum of Subarray Minimums](takeuforward/sum-of-subarray-minimums/) - TakeUForward
 - [Sliding Window Maximum](takeuforward/sliding-window-maximum/) - TakeUForward
+- [Trapping Rainwater](takeuforward/trapping-rainwater/) - TakeUForward
