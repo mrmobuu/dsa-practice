@@ -91,3 +91,4 @@
 - [Clone a LL with random and next pointer](takeuforward/clone-a-ll-with-random-and-next-pointer/) - TakeUForward
 - [1752. Check if Array Is Sorted and Rotated](leetcode/1752-check-if-array-is-sorted-and-rotated/) - LeetCode
 - [3942. Minimum Operations to Sort a Permutation](leetcode/3942-minimum-operations-to-sort-a-permutation/) - LeetCode
+- [3644. Maximum K to Sort a Permutation](leetcode/3644-maximum-k-to-sort-a-permutation/) - LeetCode
