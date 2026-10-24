@@ -103,3 +103,4 @@
 - [LRU Cache](takeuforward/lru-cache/) - TakeUForward
 - [LFU Cache](takeuforward/lfu-cache/) - TakeUForward
 - [2409. Count Days Spent Together](leetcode/2409-count-days-spent-together/) - LeetCode
+- [Difference Between Peaks And Valleys](leetcode/difference-between-peaks-and-valleys/) - LeetCode
