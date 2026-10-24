@@ -102,3 +102,4 @@
 - [Largest rectangle in a histogram](takeuforward/largest-rectangle-in-a-histogram/) - TakeUForward
 - [LRU Cache](takeuforward/lru-cache/) - TakeUForward
 - [LFU Cache](takeuforward/lfu-cache/) - TakeUForward
+- [2409. Count Days Spent Together](leetcode/2409-count-days-spent-together/) - LeetCode
