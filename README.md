@@ -114,3 +114,4 @@
 - [Detect a cycle in a directed graph](takeuforward/detect-a-cycle-in-a-directed-graph/) - TakeUForward
 - [Course Schedule I](takeuforward/course-schedule-i/) - TakeUForward
 - [Course Schedule II](takeuforward/course-schedule-ii/) - TakeUForward
+- [Dijkstra's algorithm](takeuforward/dijkstra's-algorithm/) - TakeUForward
