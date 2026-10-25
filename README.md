@@ -111,3 +111,4 @@
 - [Rotten Oranges](takeuforward/rotten-oranges/) - TakeUForward
 - [4090. Count Magical Substring Pairs I](leetcode/4090-count-magical-substring-pairs-i/) - LeetCode
 - [Bipartite graph](takeuforward/bipartite-graph/) - TakeUForward
+- [Detect a cycle in a directed graph](takeuforward/detect-a-cycle-in-a-directed-graph/) - TakeUForward
