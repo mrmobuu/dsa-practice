@@ -106,3 +106,4 @@
 - [Difference Between Peaks And Valleys](leetcode/difference-between-peaks-and-valleys/) - LeetCode
 - [Count Subarrays With Loose Bounds](leetcode/count-subarrays-with-loose-bounds/) - LeetCode
 - [Check for Perfect Number](takeuforward/check-for-perfect-number/) - TakeUForward
+- [Number of islands](takeuforward/number-of-islands/) - TakeUForward
