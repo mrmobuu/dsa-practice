@@ -108,3 +108,4 @@
 - [Check for Perfect Number](takeuforward/check-for-perfect-number/) - TakeUForward
 - [Number of islands](takeuforward/number-of-islands/) - TakeUForward
 - [1254. Number of Closed Islands](leetcode/1254-number-of-closed-islands/) - LeetCode
+- [Rotten Oranges](takeuforward/rotten-oranges/) - TakeUForward
