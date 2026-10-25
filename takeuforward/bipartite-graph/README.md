@@ -26,4 +26,5 @@
 | Solution | Language | Runtime | Memory | Tests passed | Saved |
 |---|---|---|---|---|---|
 | [bipartite-graph.cpp](bipartite-graph.cpp) | C++ | 0.035 | 433.67 KiB | 116/116 | 2026-10-25 |
+| [bipartite-graph-2.cpp](bipartite-graph-2.cpp) | C++ | 0.045 | 420.17 KiB | 116/116 | 2026-10-25 |
 <!-- solvelogs:solutions:end -->
