@@ -117,3 +117,4 @@
 - [Dijkstra's algorithm](takeuforward/dijkstra's-algorithm/) - TakeUForward
 - [Check if a tree is a BST or not](takeuforward/check-if-a-tree-is-a-bst-or-not/) - TakeUForward
 - [1010. Pairs of Songs With Total Durations Divisible by 60](leetcode/1010-pairs-of-songs-with-total-durations-divisible-by-60/) - LeetCode
+- [3185. Count Pairs That Form a Complete Day II](leetcode/3185-count-pairs-that-form-a-complete-day-ii/) - LeetCode
