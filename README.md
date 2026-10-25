@@ -115,3 +115,4 @@
 - [Course Schedule I](takeuforward/course-schedule-i/) - TakeUForward
 - [Course Schedule II](takeuforward/course-schedule-ii/) - TakeUForward
 - [Dijkstra's algorithm](takeuforward/dijkstra's-algorithm/) - TakeUForward
+- [Check if a tree is a BST or not](takeuforward/check-if-a-tree-is-a-bst-or-not/) - TakeUForward
