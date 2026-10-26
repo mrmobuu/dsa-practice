@@ -58,4 +58,5 @@ We cannot perform any operations, so we return the length of the original string
 | Solution | Language | Runtime | Memory | Tests passed | Saved |
 |---|---|---|---|---|---|
 | [minimum-length-of-string-after-operations.cpp](minimum-length-of-string-after-operations.cpp) | C++ | 140 ms, beats 5.23% | 32.6 MB, beats 30.46% | 702/702 | [2026-10-26](https://leetcode.com/submissions/detail/2181794152/) |
+| [minimum-length-of-string-after-operations-2.cpp](minimum-length-of-string-after-operations-2.cpp) | C++ | 46 ms, beats 29.85% | 32.6 MB, beats 30.46% | 702/702 | [2026-10-26](https://leetcode.com/submissions/detail/2181794274/) |
 <!-- solvelogs:solutions:end -->
