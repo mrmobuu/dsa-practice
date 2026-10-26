@@ -123,3 +123,4 @@
 - [3619. Count Islands With Total Value Divisible by K](leetcode/3619-count-islands-with-total-value-divisible-by-k/) - LeetCode
 - [4065. Rearrange Array by Removing Distinct Values](leetcode/4065-rearrange-array-by-removing-distinct-values/) - LeetCode
 - [Minimum time taken to burn the BT from a given Node](takeuforward/minimum-time-taken-to-burn-the-bt-from-a-given-node/) - TakeUForward
+- [Disjoint Set ](takeuforward/disjoint-set-/) - TakeUForward
