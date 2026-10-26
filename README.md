@@ -119,3 +119,4 @@
 - [1010. Pairs of Songs With Total Durations Divisible by 60](leetcode/1010-pairs-of-songs-with-total-durations-divisible-by-60/) - LeetCode
 - [3185. Count Pairs That Form a Complete Day II](leetcode/3185-count-pairs-that-form-a-complete-day-ii/) - LeetCode
 - [3223. Minimum Length of String After Operations](leetcode/3223-minimum-length-of-string-after-operations/) - LeetCode
+- [3222. Find the Winning Player in Coin Game](leetcode/3222-find-the-winning-player-in-coin-game/) - LeetCode
