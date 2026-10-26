@@ -126,3 +126,4 @@
 - [Disjoint Set ](takeuforward/disjoint-set-/) - TakeUForward
 - [Accounts merge](takeuforward/accounts-merge/) - TakeUForward
 - [Shortest Distance in a Binary Maze](takeuforward/shortest-path-with-minimum-effort/) - TakeUForward
+- [Cheapest flight within K stops](takeuforward/cheapest-flight-within-k-stops/) - TakeUForward
