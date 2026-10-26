@@ -26,4 +26,5 @@
 | Solution | Language | Runtime | Memory | Tests passed | Saved |
 |---|---|---|---|---|---|
 | [valid-anagram.cpp](valid-anagram.cpp) | C++ | 0.180 | 413.13 KiB | 180/180 | 2026-10-19 |
+| [valid-anagram-2.cpp](valid-anagram-2.cpp) | C++ | 0.048 | 398.43 KiB | 180/180 | 2026-10-27 |
 <!-- solvelogs:solutions:end -->
