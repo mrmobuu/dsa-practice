@@ -122,3 +122,4 @@
 - [3222. Find the Winning Player in Coin Game](leetcode/3222-find-the-winning-player-in-coin-game/) - LeetCode
 - [3619. Count Islands With Total Value Divisible by K](leetcode/3619-count-islands-with-total-value-divisible-by-k/) - LeetCode
 - [4065. Rearrange Array by Removing Distinct Values](leetcode/4065-rearrange-array-by-removing-distinct-values/) - LeetCode
+- [Minimum time taken to burn the BT from a given Node](takeuforward/minimum-time-taken-to-burn-the-bt-from-a-given-node/) - TakeUForward
