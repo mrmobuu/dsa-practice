@@ -125,3 +125,4 @@
 - [Minimum time taken to burn the BT from a given Node](takeuforward/minimum-time-taken-to-burn-the-bt-from-a-given-node/) - TakeUForward
 - [Disjoint Set ](takeuforward/disjoint-set-/) - TakeUForward
 - [Accounts merge](takeuforward/accounts-merge/) - TakeUForward
+- [Shortest Distance in a Binary Maze](takeuforward/shortest-path-with-minimum-effort/) - TakeUForward
