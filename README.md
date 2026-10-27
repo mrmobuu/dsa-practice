@@ -127,3 +127,4 @@
 - [Accounts merge](takeuforward/accounts-merge/) - TakeUForward
 - [Shortest Distance in a Binary Maze](takeuforward/shortest-path-with-minimum-effort/) - TakeUForward
 - [Cheapest flight within K stops](takeuforward/cheapest-flight-within-k-stops/) - TakeUForward
+- [3963. Create Grid With Exactly One Path](leetcode/3963-create-grid-with-exactly-one-path/) - LeetCode
