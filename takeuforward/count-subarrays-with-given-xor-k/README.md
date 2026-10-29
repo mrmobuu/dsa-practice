@@ -26,4 +26,5 @@
 | Solution | Language | Runtime | Memory | Tests passed | Saved |
 |---|---|---|---|---|---|
 | [count-subarrays-with-given-xor-k.cpp](count-subarrays-with-given-xor-k.cpp) | C++ | 0.222 | 423.04 KiB | 124/124 | 2026-10-11 |
+| [count-subarrays-with-given-xor-k-2.cpp](count-subarrays-with-given-xor-k-2.cpp) | C++ | 0.138 | 420.27 KiB | 124/124 | 2026-10-29 |
 <!-- solvelogs:solutions:end -->
