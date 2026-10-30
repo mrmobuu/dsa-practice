@@ -132,3 +132,4 @@
 - [3882. Minimum XOR Path in a Grid](leetcode/3882-minimum-xor-path-in-a-grid/) - LeetCode
 - [Clone Graph](takeuforward/clone-graph/) - TakeUForward
 - [3841. Palindromic Path Queries in a Tree](leetcode/3841-palindromic-path-queries-in-a-tree/) - LeetCode
+- [Maximum Product of Three Numbers](takeuforward/maximum-product-of-three-numbers/) - TakeUForward
