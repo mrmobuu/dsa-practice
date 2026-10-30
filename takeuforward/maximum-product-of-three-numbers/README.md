@@ -26,4 +26,5 @@
 | Solution | Language | Runtime | Memory | Tests passed | Saved |
 |---|---|---|---|---|---|
 | [maximum-product-of-three-numbers.cpp](maximum-product-of-three-numbers.cpp) | C++ | 0.020 | 405.44 KiB | 228/228 | 2026-10-30 |
+| [maximum-product-of-three-numbers-2.cpp](maximum-product-of-three-numbers-2.cpp) | C++ | 0.014 | 399.36 KiB | 228/228 | 2026-10-30 |
 <!-- solvelogs:solutions:end -->
