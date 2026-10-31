@@ -135,3 +135,4 @@
 - [Maximum Product of Three Numbers](takeuforward/maximum-product-of-three-numbers/) - TakeUForward
 - [3970. Shortest Path With At Most K Consecutive Identical Characters](leetcode/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) - LeetCode
 - [Diameter of N-ary Tree](takeuforward/diameter-of-n-ary-tree/) - TakeUForward
+- [3665. Twisted Mirror Path Count](leetcode/3665-twisted-mirror-path-count/) - LeetCode
