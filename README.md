@@ -134,3 +134,4 @@
 - [3841. Palindromic Path Queries in a Tree](leetcode/3841-palindromic-path-queries-in-a-tree/) - LeetCode
 - [Maximum Product of Three Numbers](takeuforward/maximum-product-of-three-numbers/) - TakeUForward
 - [3970. Shortest Path With At Most K Consecutive Identical Characters](leetcode/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) - LeetCode
+- [Diameter of N-ary Tree](takeuforward/diameter-of-n-ary-tree/) - TakeUForward
