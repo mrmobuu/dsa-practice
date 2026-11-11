@@ -138,3 +138,4 @@
 - [3665. Twisted Mirror Path Count](leetcode/3665-twisted-mirror-path-count/) - LeetCode
 - [453. Minimum Moves to Equal Array Elements](leetcode/0453-minimum-moves-to-equal-array-elements/) - LeetCode
 - [Merge two Sorted Lists ](takeuforward/merge-sorted-lists-/) - TakeUForward
+- [Count of Prime Numbers till N](takeuforward/count-of-prime-numbers-till-n/) - TakeUForward
