@@ -139,3 +139,4 @@
 - [453. Minimum Moves to Equal Array Elements](leetcode/0453-minimum-moves-to-equal-array-elements/) - LeetCode
 - [Merge two Sorted Lists ](takeuforward/merge-sorted-lists-/) - TakeUForward
 - [Count of Prime Numbers till N](takeuforward/count-of-prime-numbers-till-n/) - TakeUForward
+- [Two Sum](takeuforward/two-sum/) - TakeUForward

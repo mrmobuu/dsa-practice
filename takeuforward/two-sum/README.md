@@ -20,8 +20,11 @@
 
 ---
 
-## My latest accepted submission
+## My solutions
 
-| Language | Time | Memory | Tests passed |
-|---|---|---|---|
-| C++ | 0.110 | 426.60 KiB | 112/112 |
+<!-- solvelogs:solutions:start -->
+| Solution | Language | Runtime | Memory | Tests passed | Saved |
+|---|---|---|---|---|---|
+| [two-sum.cpp](two-sum.cpp) | C++ | 0.110 | 426.60 KiB | 112/112 | - |
+| [two-sum-2.cpp](two-sum-2.cpp) | C++ | 1.218 | 428.20 KiB | 112/112 | 2026-11-15 |
+<!-- solvelogs:solutions:end -->
