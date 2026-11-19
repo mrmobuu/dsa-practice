@@ -20,8 +20,11 @@
 
 ---
 
-## My latest accepted submission
+## My solutions
 
-| Language | Time | Memory | Tests passed |
-|---|---|---|---|
-| C++ | 0.209 | 427.24 KiB | 124/124 |
+<!-- solvelogs:solutions:start -->
+| Solution | Language | Runtime | Memory | Tests passed | Saved |
+|---|---|---|---|---|---|
+| [3-sum.cpp](3-sum.cpp) | C++ | 0.209 | 427.24 KiB | 124/124 | - |
+| [3-sum-2.cpp](3-sum-2.cpp) | C++ | 1.230 | 427.41 KiB | 128/128 | 2026-11-19 |
+<!-- solvelogs:solutions:end -->
